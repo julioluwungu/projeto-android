@@ -57,7 +57,7 @@ header > p {
     color: white;
     max-width: 600px;
     margin: auto;
-    margin-bottom: 10px;
+    padding-bottom: 30px;
     text-align: center;
 }
 
